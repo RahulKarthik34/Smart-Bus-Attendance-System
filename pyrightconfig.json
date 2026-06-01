@@ -1,0 +1,18 @@
+{
+    "pythonVersion": "3.13",
+    "pythonPlatform": "Windows",
+    "executionEnvironments": [
+        {
+            "root": "backend",
+            "pythonVersion": "3.13",
+            "extraPaths": [
+                "backend"
+            ]
+        }
+    ],
+    "extraPaths": [
+        "backend"
+    ],
+    "reportMissingModuleSource": "none",
+    "reportMissingTypeStubs": "none"
+}
