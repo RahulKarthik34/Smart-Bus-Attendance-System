@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart ID Card Scan Website
 
 A professional web-based attendance system that records attendance by scanning Barcode and QR codes from ID cards.
@@ -164,3 +165,7 @@ Save attendance after user confirmation
 ## License
 
 MIT License - Feel free to use for educational and commercial purposes.
+=======
+# Smart-Bus-Attendance-System
+A Smart Bus Attendance System built using Python and MySQL that automates student attendance through barcode scanning. The system captures student IDs in real time, logs attendance with timestamps, and stores records securely in a relational database, reducing manual effort and errors.
+>>>>>>> bb712f427ecf27a6f0c21c6e08330735279b56d6
